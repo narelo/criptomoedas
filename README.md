@@ -1,5 +1,5 @@
 <h4 align="center">Desenvolvimento Web com API</h4> <h1 align="center">Criptomoedas</h1>
-<p><img src="https://github.com/narelo/page-bootstrap/blob/main/images/logo-dio.png?raw=true" alt="logo dio" width="150"><b> • REQUISIÇÃO DE DADOS DE UMA API DE CRIPTOMOEDAS</b></p>
+<p><img src="https://github.com/narelo/page-bootstrap/blob/main/images/logo-dio.png?raw=true" alt="logo dio" width="100"> <b>REQUISIÇÃO DE DADOS DE UMA API DE CRIPTOMOEDAS</b></p>
 
 <h4>Ferramentas • Tools</h4>
 
